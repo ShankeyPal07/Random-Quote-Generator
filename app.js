@@ -13,5 +13,3 @@ const fetchurl = async () => {
 } catch (error) {}
 };
 
-console.log(quoteEl)
-
