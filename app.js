@@ -13,3 +13,6 @@ const fetchurl = async () => {
 };
 
 btnEl.addEventListener('click' , fetchurl)
+
+
+
