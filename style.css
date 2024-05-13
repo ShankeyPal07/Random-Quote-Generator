@@ -27,3 +27,14 @@ box-sizing: border-box;
     font-family: 'Quicksand', sans-serif;
     
 }
+
+#btn{
+    position: fixed;
+    bottom: 300px;
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: none;
+    font-size: 1rem;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
